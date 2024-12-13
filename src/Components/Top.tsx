@@ -58,8 +58,7 @@ const Top = () => {
           </div>
         </div>
         <span>
-          PN-6, Thane - Belapur Rd, Digha Naka, Subhash Nagar, Dighe, Navi
-          Mumbai, Maharashtra 400708
+          Bengaluru, Karnataka, India 560001.
         </span>
       </div>
       <div className=" flex flex-col items-end">
